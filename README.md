@@ -1,4 +1,4 @@
-# Customer Churn Detection
+# 🚀 Customer Churn Detection
 📌 Project Overview
 Our project focuses on developing a Churn Prediction System to identify customers who are likely to leave or stop using a service. With Machine Learning models and advanced analytics, businesses can retain customers through targeted interventions and personalized offers. 💼📉
 
